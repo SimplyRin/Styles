@@ -1,0 +1,42 @@
+header.js-mdl-header.mdl-header.js-drag-handle.is-movable {
+    background-color: rgb(251, 111, 200);
+}
+
+body, body:before, .js-docked-compose.compose.txt-size--14 {
+    background: linear-gradient(-45deg, rgba(125, 175, 247, .8), rgba(251, 111, 200, .8)), url(https://i.imgur.com/07yTG73.jpg);
+    background-size: cover;
+}
+
+button.js-hide-drawer.margin-t--4.margin-b--8.Button.Button--primary.Button--large.tweet-button.txt-left {
+    background: linear-gradient(-45deg, rgba(251, 111, 200, .8), rgba(251, 111, 200, .8))
+}
+
+button.js-add-emojis.js-show-tip.needsclick.btn.btn-on-blue.full-width.txt-left.margin-b--12.padding-v--9, button.js-add-image-button.js-show-tip.needsclick.btn.btn-on-blue.full-width.txt-left.margin-b--12.padding-v--6.padding-h--12, 
+button.js-schedule-button.js-show-tip.btn.btn-on-blue.full-width.txt-left.margin-b--12.padding-v--6.padding-h--12, button.js-dm-button.js-show-tip.btn.btn-on-blue.full-width.txt-left.padding-v--6.padding-h--12.margin-b--12, 
+button.js-tweet-button.btn.btn-on-blue.full-width.txt-left.margin-b--12.padding-v--6.padding-h--12, button.js-send-button.js-spinner-button.js-show-tip.Button--primary.btn-extra-height.padding-v--6.padding-h--12{
+    background-color: #fff;
+    color: #000;
+    border-color: #000000;
+}
+
+.js-compose-message-header.margin-b--9.compose-text-title, .pull-left.compose-text-title {
+    color: #fff;
+}
+
+.with-nav-border-t::before {
+    /*border-top: 1px solid rgb(151, 151, 151);*/
+    display: none;
+}
+
+a, a:hover , a.js-other-replies-link.other-replies-link, .compose-reply-tweet .tweet-body a, .obj-left, .color-twitter-blue, i.icon.icon-sliders.icon-medium, i.icon.icon-user-filled.icon-follow-color.txt-size--16, i.icon.icon-sliders {
+    color: rgb(251, 111, 200);
+}
+
+button.js-header-action.js-show-tip.app-search-fake.padding-al.margin-bm {
+    border-color: rgb(251, 111, 200);
+    color: rgb(251, 111, 200);
+}
+
+img.spinner-centered, a.pull-left.margin-r--6.is-actionable.account-selector-grid-mode, h1.js-logo.app-title.height--53, .color-twitter-blue {
+    display: none;
+}
