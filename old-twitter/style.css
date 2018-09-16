@@ -1,0 +1,7 @@
+.ProfileAvatar, .ProfileAvatar-image, .avatar, .js-action-profile-avatar, .btn, .Avatar, .js-global-new-tweet, .EdgeButton, .ProfileAvatarEditing, .ProfileListItem-avatar, .ProfileCard-avatarLink, .DashboardProfileCard-avatarLink, .ProfileCardMini-avatarImage {
+    border-radius: 5% !important;
+}
+
+.Gallery-media {
+    border-radius: 0% !important;
+}

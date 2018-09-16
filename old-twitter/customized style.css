@@ -1,0 +1,24 @@
+.RichEditor {
+    border-radius: 0.5% !important;
+}
+
+body.ja {
+    font-family: 'Century Gothic';
+}
+
+.js-add-tweet, .js-launch-service, .trends, .SidebarCommonModules, .promoted-tweet, .Footer-adsModule, .flex-module-header, .import-prompt, .roaming-module, .UserSmallListItem-context, .flex-module, .self-thread-head, .js-actionShareViaDM,
+.js-add-tweet.EdgeButton.EdgeButton--secondary.EdgeButton--icon.EdgeButton--medium.js-tooltip, li.moments.js-moments-tab {
+    display: none;
+}
+
+.js-tweet-text.tweet-text, .js-global-new-tweet {
+    font-size: 13px;
+}
+
+.TweetTextSize--jumbo.js-tweet-text.tweet-text {
+    font-size: 23px;
+}
+
+h3.modal-title {
+    font-size: 10px;
+}
