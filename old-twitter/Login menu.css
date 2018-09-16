@@ -1,0 +1,30 @@
+.StreamsFooter.StreamsFooter--fixed, .StaticLoggedOutHomePage-cell.StaticLoggedOutHomePage-communicationBlock, .StaticLoggedOutHomePage-signupBlock {
+    display: none;
+}
+
+.StaticLoggedOutHomePage-cell.StaticLoggedOutHomePage-utilityBlock {
+    background: linear-gradient(-45deg, rgba(125, 175, 247, .8), rgba(251, 111, 200, .8)), url(https://i.imgur.com/07yTG73.jpg);
+    background-size: cover;
+}
+
+input.EdgeButton.EdgeButton--secondary.EdgeButton--medium.submit.js-submit {
+    border-bottom-color: rgb(0, 0, 0);
+    border-left-color: rgb(0, 0, 0);
+    border-right-color: rgb(0, 0, 0);
+    border-top-color: rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+}
+
+.StaticLoggedOutHomePage-login {
+    padding: 50px, 0;
+}
+
+a.forgot {
+    font-size: 0;
+}
+
+a.forgot:before {
+    color: #383838;
+    font-size: 15px;
+    content: "Forgot password?";
+}
