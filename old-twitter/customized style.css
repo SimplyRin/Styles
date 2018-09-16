@@ -6,9 +6,9 @@
     border-radius: 5% !important;
 }
 
-body.ja {
+/*body.ja {
     font-family: 'Century Gothic';
-}
+}*/
 
 .js-add-tweet, .js-launch-service, .trends, .SidebarCommonModules, .promoted-tweet, .Footer-adsModule, .flex-module-header, .import-prompt, .roaming-module, .UserSmallListItem-context, .flex-module, .self-thread-head, .js-actionShareViaDM,
 .js-add-tweet.EdgeButton.EdgeButton--secondary.EdgeButton--icon.EdgeButton--medium.js-tooltip, li.moments.js-moments-tab, .dashboard.dashboard-right, .self-thread-tweet-cta, 
@@ -29,10 +29,18 @@ li[data-name=moments][role=presentation], li.dropdown-divider:nth-child(9), li[r
     font-size: 23px;
 }
 
+.ProfileHeaderCard-nameLink {
+    font-size: 19px;
+}
+
 h3.modal-title {
     font-size: 10px;
 }
 
 h1.bird-topbar-etched {
     color: #b404ae;
+}
+
+.PermalinkOverlay-with-background, .TweetstormDialog.modal-container, .Gallery.with-tweet{
+    background: linear-gradient(-45deg, rgba(207, 224, 249, .8), rgba(245, 203, 230, .8));
 }
