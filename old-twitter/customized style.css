@@ -16,8 +16,13 @@ li[data-name=moments][role=presentation], li.dropdown-divider:nth-child(9), li[r
     display: none;
 }
 
-.js-tweet-text.tweet-text, .js-global-new-tweet {
+.js-tweet-text.tweet-text, .js-global-new-tweet, .message-text {
     font-size: 13px;
+}
+
+.ReplyingToContextBelowAuthor {
+    padding-top: 1.5px;
+    font-size: 12.5px;
 }
 
 .TweetTextSize--jumbo.js-tweet-text.tweet-text {
