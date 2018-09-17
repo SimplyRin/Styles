@@ -1,4 +1,4 @@
-.ProfileAvatar, .ProfileAvatar-image, .avatar, .js-action-profile-avatar, .btn, .Avatar, .js-global-new-tweet, .EdgeButton, .ProfileAvatarEditing, .ProfileListItem-avatar, .ProfileCard-avatarLink, .DashboardProfileCard-avatarLink, .ProfileCardMini-avatarImage {
+.ProfileAvatar, .ProfileAvatar-image, .avatar, .js-action-profile-avatar, .btn, .Avatar, .js-global-new-tweet, .EdgeButton, .ProfileAvatarEditing, .ProfileListItem-avatar, .ProfileCard-avatarLink, .DashboardProfileCard-avatarLink, .ProfileCardMini-avatarImage, .ProfileAvatarEditing-button, .ProfileAvatarEditing-overlay {
     border-radius: 5% !important;
 }
 
