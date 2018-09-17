@@ -1,4 +1,4 @@
-.StreamsFooter.StreamsFooter--fixed, .StaticLoggedOutHomePage-cell.StaticLoggedOutHomePage-communicationBlock, .StaticLoggedOutHomePage-signupBlock {
+.StreamsFooter.StreamsFooter--fixed, .StaticLoggedOutHomePage-cell.StaticLoggedOutHomePage-communicationBlock, h1.StaticLoggedOutHomePage-signupTitle, .StaticLoggedOutHomePage-signupHeader, .StaticLoggedOutHomePage-buttons { /* .StaticLoggedOutHomePage-signupBlock */
     display: none;
 }
 
@@ -19,12 +19,22 @@ input.EdgeButton.EdgeButton--secondary.EdgeButton--medium.submit.js-submit {
     padding: 50px, 0;
 }
 
+h2.StaticLoggedOutHomePage-signupSubtitle {
+    font-size: 0;
+}
+
+h2.StaticLoggedOutHomePage-signupSubtitle:before {
+    color: #fff;
+    font-size: 18px;
+    content: "Welcome to Twitter Land !";
+}
+
 a.forgot {
     font-size: 0;
 }
 
 a.forgot:before {
-    color: #383838;
+    color: #fff;
     font-size: 15px;
     content: "Forgot password?";
 }
