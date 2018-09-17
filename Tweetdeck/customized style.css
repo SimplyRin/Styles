@@ -27,7 +27,7 @@ button.js-tweet-button.btn.btn-on-blue.full-width.txt-left.margin-b--12.padding-
     border-color: #000000;
 }
 
-.js-compose-message-header.margin-b--9.compose-text-title, .pull-left.compose-text-title {
+.js-compose-message-header.margin-b--9.compose-text-title, .pull-left.compose-text-title, p.padding-b--9.compose-text-title {
     color: #fff;
 }
 
@@ -78,10 +78,6 @@ button.js-dismiss.Button--primary {
 button.js-send-button.js-spinner-button.js-show-tip.Button--primary {
     background-color: rgb(251, 111, 200);
     border-color: rgb(251, 111, 200);
-}
-
-::selection {
-    background: rgb(255, 205, 237);
 }
 
 header.js-app-header.pin-all.app-header.is-condensed, li.js-column-nav-menu-item.column-nav-item, nav.app-navigator.margin-bm.padding-ts {
