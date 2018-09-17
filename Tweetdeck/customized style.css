@@ -80,6 +80,10 @@ button.js-send-button.js-spinner-button.js-show-tip.Button--primary {
     border-color: rgb(251, 111, 200);
 }
 
+::selection {
+    background: rgb(255, 205, 237);
+}
+
 header.js-app-header.pin-all.app-header.is-condensed, li.js-column-nav-menu-item.column-nav-item, nav.app-navigator.margin-bm.padding-ts {
     background-color: #f9f9f9;
 }
