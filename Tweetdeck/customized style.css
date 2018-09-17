@@ -23,13 +23,18 @@ button.js-tweet-button.btn.btn-on-blue.full-width.txt-left.margin-b--12.padding-
     color: #fff;
 }
 
-.with-nav-border-t::before {
-    /*border-top: 1px solid rgb(151, 151, 151);*/
-    display: none;
+a, a:active, a:focus, a:hover, a.js-other-replies-link.other-replies-link, .compose-reply-tweet .tweet-body a, .obj-left, .color-twitter-blue, i.icon.icon-sliders.icon-medium, i.icon.icon-user-filled.icon-follow-color.txt-size--16, i.icon.icon-sliders,
+.dm-action:active .icon-reply, .dm-action:active .reply-count, .dm-action:focus .icon-reply, .dm-action:focus .reply-count, .dm-action:hover .icon-reply, .dm-action:hover .reply-count, .is-selected.dm-action .icon-reply, .is-selected.dm-action .reply-count, .is-selected.tweet-detail-action .icon-reply, .is-selected.tweet-detail-action .reply-count, .tweet-action.is-selected .icon-reply, .tweet-action.is-selected .reply-count, .tweet-action:active .icon-reply, .tweet-action:active .reply-count, .tweet-action:focus .icon-reply, .tweet-action:focus .reply-count, .tweet-action:hover .icon-reply, .tweet-action:hover .reply-count, .tweet-detail-action:active .icon-reply, .tweet-detail-action:active .reply-count, .tweet-detail-action:focus .icon-reply, .tweet-detail-action:focus .reply-count, .tweet-detail-action:hover .icon-reply, .tweet-detail-action:hover .reply-count, i.icon.icon-xsmall.icon-dot.column-nav-updates, .is-new .column-type-icon, .obj-left.item-img.tweet-img.position-rel, i.Icon.icon-follow, .js-preferences-summary.facet-subtitle.padding-t--3.padding-r--12.padding-l--36.nbfc, i.icon.icon-edit.txt-size--14, span.label.margin-ln, .lst-group .selected a:hover, .nbfc.padding-ts.hide-condensed.txt-size--16, i.Notification-icon  {
+    color: rgb(251, 111, 200);
 }
 
-a, a:hover , a.js-other-replies-link.other-replies-link, .compose-reply-tweet .tweet-body a, .obj-left, .color-twitter-blue, i.icon.icon-sliders.icon-medium, i.icon.icon-user-filled.icon-follow-color.txt-size--16, i.icon.icon-sliders {
-    color: rgb(251, 111, 200);
+a.is-selected.compose-account:focus .compose-account-img, .compose-account:focus .compose-account-img {
+    box-shadow:0 0 2px 3px rgb(251, 111, 200);
+    outline: 0;
+}
+
+li.js-typeahead-item.js-typeahead-user-item.is-actionable.list-item.item-box.is-selected, .dropdown-menu .is-selected, .lst-group .selected {
+    background-color: rgb(251, 111, 200);
 }
 
 button.js-header-action.js-show-tip.app-search-fake.padding-al.margin-bm {
@@ -37,6 +42,53 @@ button.js-header-action.js-show-tip.app-search-fake.padding-al.margin-bm {
     color: rgb(251, 111, 200);
 }
 
-img.spinner-centered, a.pull-left.margin-r--6.is-actionable.account-selector-grid-mode, h1.js-logo.app-title.height--53, .color-twitter-blue {
+.focus, input:focus, select:focus, textarea:focus {
+    border-color: rgba(251, 111, 200,.8);
+    box-shadow: inset 0 1px 3px rgba(20,23,26,.1), 0 0 8px rgba(251, 111, 200,.6);
+}
+
+button.js-user-actions-menu.btn.btn-round, button.pending-text.action-text, button.js-action-profile.action-text.thats-you-text, button.action-text.follow-text, button.Button-primary:hover, button.js-back.btn.btn-back {
+    border: 1px solid rgb(251, 111, 200);
+    color: rgb(251, 111, 200);
+}
+
+button.action-text.Button--primary.following-text, .js-dismiss.Button--primary.pull-right, button.js-add-column.Button--primary, button.js-show-drawer.js-show-tip.Button.Button--primary.Button--large.tweet-button.margin-t--4.margin-b--8 {
+    background-color: rgb(251, 111, 200);
+    border-color: rgb(251, 111, 200);
+}
+
+button.js-save-list.js-submittable-input.Button--primary {
+    background-color: rgb(251, 111, 200);
+    border-color: rgb(251, 111, 200);
+}
+
+button.js-dismiss.Button--primary {
+    background-color: rgb(251, 111, 200);
+    border: 1px solid rgb(251, 111, 200);
+}
+
+::selection {
+    background: rgb(255, 205, 237);
+}
+
+header.js-app-header.pin-all.app-header.is-condensed, li.js-column-nav-menu-item.column-nav-item, nav.app-navigator.margin-bm.padding-ts {
+    background-color: #f9f9f9;
+}
+
+.with-nav-border-t::before {
+    /*border-top: 1px solid rgb(151, 151, 151);*/
+    display: none;
+}
+
+p.social-proof-names.pull-right {
+    font-size: 12px;
+    width: 100%;
+}
+
+.prf .lst-profile i {
+    font-size: 28px;
+}
+
+img.spinner-centered, a.pull-left.margin-r--6.is-actionable.account-selector-grid-mode:nth-child(1), h1.js-logo.app-title.height--53, .color-twitter-blue.is-hidden.visible-in-contracted-header.height--53.full-width.flex.flex-align--center.flex-justify-content--center {
     display: none;
 }
