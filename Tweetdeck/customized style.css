@@ -8,12 +8,20 @@ body, body:before, .js-docked-compose.compose.txt-size--14 {
 }
 
 button.js-hide-drawer.margin-t--4.margin-b--8.Button.Button--primary.Button--large.tweet-button.txt-left {
-    background: linear-gradient(-45deg, rgba(251, 111, 200, .8), rgba(251, 111, 200, .8))
+    background: linear-gradient(90deg, rgb(251, 111, 200), rgb(204, 96, 170))
+}
+
+.js-inline-reply.inline-reply, .attach-compose-buttons .tweet-button, .inline-reply, .compose {
+    background-color: rgb(204, 96, 170);
+}
+
+span.reply-triangle {
+    border-color: transparent transparent #CC60AA;
 }
 
 button.js-add-emojis.js-show-tip.needsclick.btn.btn-on-blue.full-width.txt-left.margin-b--12.padding-v--9, button.js-add-image-button.js-show-tip.needsclick.btn.btn-on-blue.full-width.txt-left.margin-b--12.padding-v--6.padding-h--12, 
 button.js-schedule-button.js-show-tip.btn.btn-on-blue.full-width.txt-left.margin-b--12.padding-v--6.padding-h--12, button.js-dm-button.js-show-tip.btn.btn-on-blue.full-width.txt-left.padding-v--6.padding-h--12.margin-b--12, 
-button.js-tweet-button.btn.btn-on-blue.full-width.txt-left.margin-b--12.padding-v--6.padding-h--12, button.js-send-button.js-spinner-button.js-show-tip.Button--primary.btn-extra-height.padding-v--6.padding-h--12{
+button.js-tweet-button.btn.btn-on-blue.full-width.txt-left.margin-b--12.padding-v--6.padding-h--12, button.js-send-button.js-spinner-button.js-show-tip.Button--primary.btn-extra-height.padding-v--6.padding-h--12 {
     background-color: #fff;
     color: #000;
     border-color: #000000;
@@ -65,6 +73,11 @@ button.js-save-list.js-submittable-input.Button--primary {
 button.js-dismiss.Button--primary {
     background-color: rgb(251, 111, 200);
     border: 1px solid rgb(251, 111, 200);
+}
+
+button.js-send-button.js-spinner-button.js-show-tip.Button--primary {
+    background-color: rgb(251, 111, 200);
+    border-color: rgb(251, 111, 200);
 }
 
 ::selection {
