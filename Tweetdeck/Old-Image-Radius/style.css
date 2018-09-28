@@ -1,3 +1,9 @@
+/* image */
 a.js-media-image-link, .js-media.media-preview.media-grid-container.media-size-medium.margin-vm ,img.js-media-bar-thumb, .media-grid-container {
+    border-radius: 4px !important;
+}
+
+/* */
+.js-quote-detail.quoted-tweet {
     border-radius: 4px !important;
 }
