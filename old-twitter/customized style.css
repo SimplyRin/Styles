@@ -12,7 +12,8 @@
 
 .js-add-tweet, .js-launch-service, .trends, .SidebarCommonModules, .promoted-tweet, .Footer-adsModule, .flex-module-header, .import-prompt, .roaming-module, .UserSmallListItem-context, .flex-module, .self-thread-head, .js-actionShareViaDM,
 .js-add-tweet.EdgeButton.EdgeButton--secondary.EdgeButton--icon.EdgeButton--medium.js-tooltip, li.moments.js-moments-tab, .dashboard.dashboard-right, .self-thread-tweet-cta, 
-li[data-name=moments][role=presentation], li.dropdown-divider:nth-child(9), li[role=presentation]:nth-child(10), li[role=presentation]:nth-child(11), li.js-keyboard-shortcut-trigger, li[role=presentation]:nth-child(14), li[role=presentation]:nth-child(17), li[role=presentation]:nth-child(18), .TweetBoxExtras-item:nth-child(2), .promoted-tweet-heading, li.js-stream-item.stream-item.stream-item.separated-module.has-profile-promoted-tweet {
+li[data-name=moments][role=presentation], li.dropdown-divider:nth-child(9), li[role=presentation]:nth-child(10), li[role=presentation]:nth-child(11), li.js-keyboard-shortcut-trigger, li[role=presentation]:nth-child(14), li[role=presentation]:nth-child(17), li[role=presentation]:nth-child(18), .TweetBoxExtras-item:nth-child(2), .promoted-tweet-heading, li.js-stream-item.stream-item.stream-item.separated-module.has-profile-promoted-tweet, .promoted-account, .WtfLargeCarouselStreamItem.js-stream-item.stream-item.js-dedupe-wtf-sidebar.js-no-dedup.DismissibleModule.js-has-navigable-stream.stream-item.no-header-background-module.separated-module
+ {
     display: none;
 }
 
