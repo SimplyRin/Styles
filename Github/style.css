@@ -1,0 +1,11 @@
+.d-flex.flex-justify-between:nth-child(1) {
+    padding-left: 23%;
+}
+
+.d-flex:nth-child(2) {
+    padding-right: 15%;
+}
+
+.header-search.js-site-search.position-relative.js-jump-to {
+    width: 150px;
+}
