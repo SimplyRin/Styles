@@ -1,0 +1,5 @@
+li.js-stream-item.stream-item.stream-item.js-activity.js-activity-retweeted_retweet,
+li.js-stream-item.stream-item.stream-item.js-activity.js-activity-favorited_retweet,
+li.js-stream-item.stream-item.stream-item.js-activity.js-activity-generic {
+    display: none;
+}
