@@ -1,3 +1,4 @@
-.tw-border-radius-medium, .tw-root--theme-dark .tw-border-radius-medium, .tw-root--theme-light .tw-border-radius-medium, .tw-button--overlay, button.follow-btn.follow-btn--following.follow-btn--with-dropdown, button.follow-btn__dropdown-toggle, button.tw-interactive.tw-button.tw-button--dropmenu.tw-button--full-width, button.tw-interactive.tw-button.tw-button--hollow, button.tw-interactive.tw-button-icon.tw-button-icon--hollow {
+/* button.follow-btn__dropdown-toggle, button.tw-interactive.tw-button.tw-button--dropmenu.tw-button--full-width, button.tw-interactive.tw-button.tw-button--hollow, button.tw-interactive.tw-button-icon.tw-button-icon--hollow */
+.tw-border-radius-medium, .tw-root--theme-dark .tw-border-radius-medium, .tw-root--theme-light .tw-border-radius-medium, .tw-button--overlay, button.follow-btn.follow-btn--following.follow-btn--with-dropdown, button {
     border-radius: 0!important;
 }
