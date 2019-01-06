@@ -1,8 +1,16 @@
-/* アイコンを四角にする */
 .ProfileAvatar, .ProfileAvatar-image, .avatar, .js-action-profile-avatar, .btn, .Avatar, .js-global-new-tweet, .EdgeButton, .ProfileAvatarEditing, .ProfileListItem-avatar, .ProfileCard-avatarLink, .DashboardProfileCard-avatarLink, .ProfileCardMini-avatarImage, .ProfileAvatarEditing-button, .ProfileAvatarEditing-overlay, .ProfileAvatar-placeholder.u-block.js-nav.js-tooltip profile-picture {
     border-radius: 5% !important;
 }
 
 .Gallery-media {
     border-radius: 0% !important;
+}
+
+
+.js-media-image-link, .block, .tweet-avatar {
+    border-radius: 5% !important;
+}
+
+.avatar--circular {
+    border-radius: 5% !important;
 }
