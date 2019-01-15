@@ -33,7 +33,7 @@ nav.app-navigator.margin-bm.padding-tm {
 }
 
 a, a:active, a:focus, a:hover, a.js-other-replies-link.other-replies-link, .compose-reply-tweet .tweet-body a, .obj-left, .color-twitter-blue, i.icon.icon-sliders.icon-medium, i.icon.icon-user-filled.icon-follow-color.txt-size--16, i.icon.icon-sliders,
-.dm-action:active .icon-reply, .dm-action:active .reply-count, .dm-action:focus .icon-reply, .dm-action:focus .reply-count, .dm-action:hover .icon-reply, .dm-action:hover .reply-count, .is-selected.dm-action .icon-reply, .is-selected.dm-action .reply-count, .is-selected.tweet-detail-action .icon-reply, .is-selected.tweet-detail-action .reply-count, .tweet-action.is-selected .icon-reply, .tweet-action.is-selected .reply-count, .tweet-action:active .icon-reply, .tweet-action:active .reply-count, .tweet-action:focus .icon-reply, .tweet-action:focus .reply-count, .tweet-action:hover .icon-reply, .tweet-action:hover .reply-count, .tweet-detail-action:active .icon-reply, .tweet-detail-action:active .reply-count, .tweet-detail-action:focus .icon-reply, .tweet-detail-action:focus .reply-count, .tweet-detail-action:hover .icon-reply, .tweet-detail-action:hover .reply-count, i.icon.icon-xsmall.icon-dot.column-nav-updates, .is-new .column-type-icon, .obj-left.item-img.tweet-img.position-rel, i.Icon.icon-follow, .js-preferences-summary.facet-subtitle.padding-t--3.padding-r--12.padding-l--36.nbfc, i.icon.icon-edit.txt-size--14, span.label.margin-ln, .lst-group .selected a:hover, .nbfc.padding-ts.hide-condensed.txt-size--16, i.Notification-icon  {
+.dm-action:active .icon-reply, .dm-action:active .reply-count, .dm-action:focus .icon-reply, .dm-action:focus .reply-count, .dm-action:hover .icon-reply, .dm-action:hover .reply-count, .is-selected.dm-action .icon-reply, .is-selected.dm-action .reply-count, .is-selected.tweet-detail-action .icon-reply, .is-selected.tweet-detail-action .reply-count, .tweet-action.is-selected .icon-reply, .tweet-action.is-selected .reply-count, .tweet-action:active .icon-reply, .tweet-action:active .reply-count, .tweet-action:focus .icon-reply, .tweet-action:focus .reply-count, .tweet-action:hover .icon-reply, .tweet-action:hover .reply-count, .tweet-detail-action:active .icon-reply, .tweet-detail-action:active .reply-count, .tweet-detail-action:focus .icon-reply, .tweet-detail-action:focus .reply-count, .tweet-detail-action:hover .icon-reply, .tweet-detail-action:hover .reply-count, i.icon.icon-xsmall.icon-dot.column-nav-updates, .is-new .column-type-icon, .obj-left.item-img.tweet-img.position-rel, i.Icon.icon-follow, .js-preferences-summary.facet-subtitle.padding-t--3.padding-r--12.padding-l--36.nbfc, i.icon.icon-edit.txt-size--14, span.label.margin-ln, .lst-group .selected a:hover, .nbfc.padding-ts.hide-condensed.txt-size--16 {
     color: rgb(251, 111, 200);
 }
 
@@ -42,7 +42,7 @@ a.is-selected.compose-account:focus .compose-account-img, .compose-account:focus
     outline: 0;
 }
 
-li.js-typeahead-item.js-typeahead-user-item.is-actionable.list-item.item-box.is-selected, .dropdown-menu .is-selected, .lst-group .selected {
+li.js-typeahead-item.js-typeahead-user-item.is-actionable.list-item.item-box.is-selected, .dropdown-menu .is-selected, .lst-group .selected, .Notification-icon {
     background-color: rgb(251, 111, 200);
 }
 
