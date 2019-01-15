@@ -7,7 +7,7 @@ body, body:before, .js-docked-compose.compose.txt-size--14 {
     background-size: cover;
 }
 
-button.js-hide-drawer.margin-t--4.margin-b--8.Button.Button--primary.Button--large.tweet-button.txt-left {
+button.js-hide-drawer.margin-t--4.margin-b--8.Button.Button--primary.Button--large.tweet-button.txt-left, .js-hide-drawer.margin-t--8.margin-b--10.Button.Button--primary.Button--large.tweet-button.txt-left {
     background: linear-gradient(90deg, rgb(251, 111, 200), rgb(204, 96, 170))
 }
 
@@ -21,7 +21,8 @@ span.reply-triangle {
 
 button.js-add-emojis.js-show-tip.needsclick.btn.btn-on-blue.full-width.txt-left.margin-b--12.padding-v--9, button.js-add-image-button.js-show-tip.needsclick.btn.btn-on-blue.full-width.txt-left.margin-b--12.padding-v--6.padding-h--12, 
 button.js-schedule-button.js-show-tip.btn.btn-on-blue.full-width.txt-left.margin-b--12.padding-v--6.padding-h--12, button.js-dm-button.js-show-tip.btn.btn-on-blue.full-width.txt-left.padding-v--6.padding-h--12.margin-b--12, 
-button.js-tweet-button.btn.btn-on-blue.full-width.txt-left.margin-b--12.padding-v--6.padding-h--12, button.js-send-button.js-spinner-button.js-show-tip.Button--primary.btn-extra-height.padding-v--6.padding-h--12 {
+button.js-tweet-button.btn.btn-on-blue.full-width.txt-left.margin-b--12.padding-v--6.padding-h--12, button.js-send-button.js-spinner-button.js-show-tip.Button--primary.btn-extra-height.padding-v--6.padding-h--12,
+nav.app-navigator.margin-bm.padding-tm {
     background-color: #fff;
     color: #000;
     border-color: #000000;
