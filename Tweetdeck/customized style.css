@@ -61,7 +61,7 @@ button.js-user-actions-menu.btn.btn-round, button.pending-text.action-text, butt
     color: rgb(251, 111, 200);
 }
 
-button.action-text.Button--primary.following-text, .js-dismiss.Button--primary.pull-right, button.js-add-column.Button--primary, button.js-show-drawer.js-show-tip.Button.Button--primary.Button--large.tweet-button.margin-t--4.margin-b--8 {
+button.action-text.Button--primary.following-text, .js-dismiss.Button--primary.pull-right, button.js-add-column.Button--primary, button.js-show-drawer.js-show-tip.Button.Button--primary.Button--large.tweet-button.margin-t--4.margin-b--8, button.js-show-drawer.js-show-tip.Button.Button--primary.Button--large.tweet-button.margin-t--8.margin-b--10 {
     background-color: rgb(251, 111, 200);
     border-color: rgb(251, 111, 200);
 }
