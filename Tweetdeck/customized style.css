@@ -106,3 +106,7 @@ p.social-proof-names.pull-right {
 img.spinner-centered, a.pull-left.margin-r--6.is-actionable.account-selector-grid-mode:nth-child(1), h1.js-logo.app-title.height--53, .color-twitter-blue.is-hidden.visible-in-contracted-header.height--53.full-width.flex.flex-align--center.flex-justify-content--center {
     display: none;
 }
+
+button.js-hide-drawer.margin-t--8.margin-b--10.Button.Button--primary.Button--large.tweet-button.txt-left {
+    width: 48px;
+}
